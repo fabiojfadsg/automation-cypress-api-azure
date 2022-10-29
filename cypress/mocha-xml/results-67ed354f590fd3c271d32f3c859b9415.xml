@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="2.249" tests="5" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-10-29T04:52:04" tests="0" file="cypress/e2e/user/user.spec.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="User" timestamp="2022-10-29T04:52:04" tests="5" time="2.206" failures="0">
+    <testcase name="User POST - /user - Post users" time="0.598" classname="POST - /user - Post users">
+    </testcase>
+    <testcase name="User GET - /user - Search all users" time="0.400" classname="GET - /user - Search all users">
+    </testcase>
+    <testcase name="User GET{{id}} - /user{id} - Get id user" time="0.270" classname="GET{{id}} - /user{id} - Get id user">
+    </testcase>
+    <testcase name="User PUT{{id}} - /user{id} - PUT id user" time="0.201" classname="PUT{{id}} - /user{id} - PUT id user">
+    </testcase>
+    <testcase name="User E2E - User" time="0.588" classname="E2E - User">
+    </testcase>
+  </testsuite>
+</testsuites>
